@@ -1,2 +1,4 @@
 hi how are u this is git final exam in class exam
 
+getting updated from the remote repository 
+
