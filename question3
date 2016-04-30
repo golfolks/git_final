@@ -1,0 +1,29 @@
+degeneratee Merge: 
+
+There are two normal ruffian situations that prompt consolidations and are rung as of now to-date and quick forward. Since neither or these situations really presents another consolidation confer subsequent to performing the git blend, some should seriously think about them not to be genuine union systems 
+
+As of now a la mode: when all the confers from the other branch are as of now present in your objective branch, regardless of the possibility that it has progressed all alone, the objective branch is said to be now forward. Thus, no new submits are added to your branch. 
+
+Quick Forward: A quick forward union happens when your branch Head is as of now completely present and spoke to in the other branch. This is the opposite of the as of now exceptional case. 
+
+Since your HEAD is as of now present in the other branch (likely because of a typical predecessor), git basically attaches to your HEAD the new submits from the other branch. Git then moves visit branch HEAD to indicate the last, new submit. Actually the list and you're working catalog additionally balanced as needs be to mirror the perspective, last submit state. 
+
+Ordinary Merge: 
+
+These consolidation systems all deliver a last confer, added to your present branch that speaks to the joined condition of the union. 
+
+Resolve: the determination technique works on just two branches, finding the basic progenitor as the union premise and performing an immediate three-path converge by applying the progressions from the consolidation base to the tip of the other branch HEAD on to the present branch. This technique bodes well. 
+
+Recursive: The recursive procedure is like the determination system In that it can just join two branches on the double. Be that as it may, it is intended to handle the situation where there is more than one union base between the two branches. In these cases, git shapes an interim converge of all regular union bases and after that uses that as the base from which to merit coming about converge of the two given branches by means of an ordinary three way blend calculation. 
+
+Octopus: The octopus system is particularly intended to blend together more than two branches all the while. Theoretically, it is genuinely basic ; inside, it calls the recursive union methodology numerous times, once for every branch you are blending. 
+
+Claim to fame Merges: 
+
+There are two union procedures that you ought to know about on the grounds that they can now and again help you to take care of peculiar issues. The two uncommon techniques are Ours and subtree. 
+
+These consolidation techniques every produce a last confer, added to your present branch, that speaks to the joined condition of the union. 
+
+Our own: the our own technique converges in any number of different branches, however it really disposes of changes from those branches and uses just the records from the present branch. The aftereffect of an our own union is indistinguishable to the present HEAD, however whatever other named branches are likewise recorded as submit guardians. 
+
+Subtree: The subtree technique converges in another branch, however everything in that branch is converged into a specific subtree of the present tree. You don't indicate which subtree; git establishes that natural

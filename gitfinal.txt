@@ -1,7 +1,10 @@
 hi how are u this is git final exam in class exam.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 getting updated from the remote repository 
+=======
+>>>>>>> 34790b3... committed
 =======
 >>>>>>> 34790b3... committed
 
